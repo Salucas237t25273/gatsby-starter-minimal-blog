@@ -9,7 +9,7 @@ module.exports = {
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `Minimal Blog`,
     siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
+    siteHeadline: `Minimal Blog -salucas  Gatsby Theme from @Salucas`,
     siteUrl: `https://minimal-blog.lekoarts.de`,
     siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
     siteLanguage: `en`,
